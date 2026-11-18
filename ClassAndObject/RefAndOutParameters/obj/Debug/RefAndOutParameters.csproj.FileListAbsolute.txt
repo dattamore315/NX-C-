@@ -1,0 +1,7 @@
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe.config
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\bin\Debug\RefAndOutParameters.pdb
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.AssemblyReference.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.CoreCompileInputs.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\obj\Debug\RefAndOutParameters.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\RefAndOutParameters\obj\Debug\RefAndOutParameters.pdb

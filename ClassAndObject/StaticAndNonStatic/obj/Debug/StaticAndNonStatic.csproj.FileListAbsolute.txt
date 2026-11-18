@@ -1,0 +1,7 @@
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\bin\Debug\StaticAndNonStatic.exe.config
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\bin\Debug\StaticAndNonStatic.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\bin\Debug\StaticAndNonStatic.pdb
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\obj\Debug\StaticAndNonStatic.csproj.AssemblyReference.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\obj\Debug\StaticAndNonStatic.csproj.CoreCompileInputs.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\obj\Debug\StaticAndNonStatic.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\StaticAndNonStatic\obj\Debug\StaticAndNonStatic.pdb

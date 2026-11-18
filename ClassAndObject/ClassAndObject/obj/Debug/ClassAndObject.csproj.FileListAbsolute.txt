@@ -1,0 +1,7 @@
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.pdb
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csproj.AssemblyReference.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.exe
+C:\Users\dmore\OneDrive - Emdep-2, S.L\02-CAD Customization\Task 2\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.pdb

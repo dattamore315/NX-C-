@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../AccessSpecifiers/AccessSpecifiers.csproj" Id="c4cfd757-98d9-4a41-81b6-6edab845b993" />
+  <Project Path="ClassAndObject/ClassAndObject.csproj" Id="5a126736-be48-4a4d-a863-87655872f119" />
+  <Project Path="MethodsAndMethodOverloading/MethodsAndMethodOverloading.csproj" Id="7ad1a534-68a0-45ad-8199-e34659c8807d" />
+  <Project Path="RefAndOutParameters/RefAndOutParameters.csproj" Id="f531cdba-2d44-4d6b-90c5-38ce9b65b66f" />
+  <Project Path="StaticAndNonStatic/StaticAndNonStatic.csproj" Id="e679158a-3241-4660-8556-a3158e353c43" />
+  <Project Path="StructureVSClasses/StructureVSClasses.csproj" Id="426eb71e-4d2e-4813-a033-b293b462a8d7" />
+</Solution>
