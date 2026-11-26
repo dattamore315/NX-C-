@@ -58,6 +58,8 @@ namespace StructureVSClasses
             //Classes: Are reference type
 
             //Most use case of struct class, when we work with cordinates.
+
+            // new update..
         }
     }
 }
