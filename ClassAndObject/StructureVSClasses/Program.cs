@@ -60,6 +60,8 @@ namespace StructureVSClasses
             //Most use case of struct class, when we work with cordinates.
 
             // new update..
+
+            //Added new test
         }
     }
 }
